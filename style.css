@@ -61,8 +61,8 @@ body{
 }
 .text-block {
     background: rgba(255, 255, 255, 0.5);
-    padding: 20px;
     color: black;
+    padding: 20px;
     position: absolute;
     width: 230px;
     height: 80px;
@@ -80,17 +80,22 @@ body{
 }
 .text-block-blog {    
     background: aliceblue;
-    padding: 10px;
     color: black;
     position: absolute;
     width: 250px;
-    height: auto;
+    height: 80px;
     top: 100%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Hammersmith One', sans-serif;
     text-transform: uppercase;
+}
+
+.text-block-header{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
 }
 
 .text-block-coming-soon {
