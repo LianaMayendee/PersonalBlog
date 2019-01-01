@@ -114,22 +114,6 @@ body{
     z-index: 1;
 }
 
-.text-block-coming-soon-lifestyle {
-    background: black;
-    padding: 10px;
-    color: white;
-    position: absolute;
-    width: 150px;
-    height: auto;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    font-family: 'Hammersmith One', sans-serif;
-    text-transform: uppercase;
-    z-index: 1;
-}
-
 .row-padding-bottom {
     padding-bottom: 30px;
 }
