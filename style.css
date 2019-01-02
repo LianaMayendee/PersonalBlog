@@ -183,6 +183,22 @@ body{
     font-size: 15px;
 }
 
+/* Pagination */
+.pagination-style {
+    background: black;
+    position: relative;
+    left: 35%;
+    height: auto;
+    top: 34%;
+    font-family: 'Hammersmith One', sans-serif;
+    text-transform: uppercase;
+    margin-right: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+}
+
+
 /* Footer */
 
 .footer {
