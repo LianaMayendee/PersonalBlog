@@ -164,6 +164,26 @@ body{
     font-weight: bold;
 }
 
+.more-on-our-blog {
+    color: black;
+    font-size: 15px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    text-transform: uppercase;
+    padding: 10px;
+    letter-spacing: 5px;
+    color: white;
+    background: black;
+    position: absolute;
+    width:400px;
+    height: auto;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-weight: bold;
+}
+
 /* Typography styles */
 .quote-background {
     background-color: aliceblue;
